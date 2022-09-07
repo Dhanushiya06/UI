@@ -1,0 +1,16 @@
+.card-img-top {
+    width: 100%;
+    height: 30vw;
+    object-fit: cover;
+}
+
+.card-text{
+    float: left;
+}
+
+.btn{
+    float: right;
+}
+.navbar{
+    background-image: linear-gradient(rgb(110,8,174));
+}
